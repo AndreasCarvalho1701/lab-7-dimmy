@@ -1,6 +1,6 @@
 # Laboratório 07 — Fine-Tuning com LoRA e QLoRA
 
-**Disciplina:** Inteligência Artificial Aplicada  
+**Disciplina:** Inteligência Artificial Aplicada.  
 **Instituição:** Instituto iCEV  
 **Aluno:** Andreas Carvalho  
 **Professor:** Prof. Dimmy  
