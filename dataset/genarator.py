@@ -31,7 +31,7 @@ from openai import OpenAI
 load_dotenv()
 
 
-CHAVE_API     ="""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"""
+CHAVE_API      = os.getenv("OPENAI_API_KEY")
 MODELO         = "gpt-4o-mini"
 TOTAL          = 80      
 PROPORCAO_TREINO = 0.9      
